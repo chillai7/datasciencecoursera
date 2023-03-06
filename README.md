@@ -1,5 +1,5 @@
 # datasciencecoursera
 
-#first helloworld project with R
+first helloworld project with R
 
-#first R programming quiz with basics operations
+first R programming quiz with basics operations
